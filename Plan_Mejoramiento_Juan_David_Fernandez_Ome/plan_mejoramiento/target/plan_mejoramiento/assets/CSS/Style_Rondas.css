@@ -1,0 +1,46 @@
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(/IMAGENES/pexels-riccardo-41257.jpg) no-repeat;
+    background-size: cover;
+    position: center;
+}
+div{
+    width: 400px;
+    background: url(/IMAGENES/lineas-neon-brillando-abstracto_7680x4320_xtrafondos.com.jpg) no-repeat;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    color: whith;
+    box-shadow: 7px 13px 37px #000;
+}
+h1
+{
+    font-size: 35px;
+    color: white;
+    
+}
+h3
+{
+    font-size: 35px;
+    color: beige;
+    font-family:'Sedgwick Ave Display';
+}
+h4
+{
+    font-size: 20px;
+    color: white;
+}
+.preguntas
+{
+    color: aqua;
+}
+.seguir
+{
+    font-family: 'Sedgwick Ave Display';
+    color: aqua;
+    font-size: 20px;
+}

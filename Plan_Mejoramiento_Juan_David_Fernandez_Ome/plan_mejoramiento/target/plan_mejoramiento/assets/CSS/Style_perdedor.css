@@ -1,0 +1,53 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: white;
+    font-family: 'Times New Roman';
+}
+section
+{
+    min-height: 100vh;
+    padding: 0%;    
+    padding-top: 0.5rem;
+}
+.inicio
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(/IMAGENES/pexels-jim-de-ramos-1277396.jpg) no-repeat;
+    background-size: cover;
+    position: center;
+}
+span
+{
+    color: rgb(0, 0, 0);
+}
+h1
+{
+    color: rgb(0, 0, 0);
+}
+.inicio .content h3
+{
+    color: rgb(94, 141, 204);
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.regla
+{
+    font-family: 'Sedgwick Ave Display';
+    color: rgb(0, 238, 255);
+    font-size: 20px;
+}
+.reglas
+{
+    color:aliceblue;
+    font-size: 20px;
+}
